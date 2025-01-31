@@ -800,3 +800,25 @@ fieldset {
         font-size: 10px;
     }
 }
+
+
+
+
+
+
+.row.case-heading a {
+    display: block;
+    background: #e83e3e;
+    float: inline-end;
+    color: #fff;
+    padding: 12px;
+    margin-top: 50px;
+}
+
+.row.case-heading a:hover {
+    background: #000;
+    
+}
+
+
+
